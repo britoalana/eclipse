@@ -1,0 +1,36 @@
+#background {
+    background-color: #AE87D6;
+}
+
+.botao {
+    display: flex;
+    flex-direction: column;
+    width: 305px;
+    height: 53px;
+    gap: 2rem;
+    text-align: center;
+}
+
+
+.login {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    border-radius: 30px;
+    padding: .8rem;
+    border: none;
+
+}
+
+.cadastro {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 29px;
+    border-radius: 30px;
+    padding: .8rem;
+    border: none;
+}

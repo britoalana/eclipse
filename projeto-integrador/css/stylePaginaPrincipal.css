@@ -1,0 +1,13 @@
+#background{
+    background-color: #AE87D6;
+}
+
+header{
+    background-color: #9B6CCA;
+}
+
+.nav-link:hover{
+    background-color: #6E2A8D;
+    border-radius: 10px;
+}
+
